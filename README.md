@@ -29,7 +29,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-https://1drv.ms/i/c/459b3d2dd5902916/Eb07HfhKNyFPgAntixGHzDoBmysj4wIpcg1tZZpuFCS1UQ 
+https://github.com/shapnil-sarker/project1/issues/1#issue-2532462048  
 ## Notes
 
 Describe any challenges encountered while building the app.
